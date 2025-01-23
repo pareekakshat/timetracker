@@ -6,7 +6,7 @@ A comprehensive time tracking solution with screenshot capabilities, team manage
 ## 🌟 Features
 
 - ⏱️ Real-time time tracking
-- 📸 Automatic screenshots (web & desktop)
+- 📸 Automatic screenshots
 - 👥 Team management
 - 📊 Detailed reports and analytics
 - 🔐 Role-based access control
@@ -82,10 +82,6 @@ screenshots
    # Web application
    npm install
 
-   # Desktop application
-   cd electron-time-tracker
-   npm install
-   ```
 
 3. Create a `.env` file in the root directory:
    ```env
